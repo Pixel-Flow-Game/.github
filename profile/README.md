@@ -1,4 +1,4 @@
-# Pixel Flow Solutions Hub
+# Pixel Flow Solutions & Walkthrough Hub
 
 You’re stuck. The conveyor is jammed. A pig with “7” ammo is about to ruin your day. Cool.
 
