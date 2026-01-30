@@ -48,12 +48,10 @@ When a run starts going bad, don’t “hope tap” your way out. **Restart earl
 
 These are the [Pixel Flow power ups](https://pixel-flow.app/wiki/power-ups):
 
-* **Add Tray** (unlocks around **Levepace. Straight-up solves tight queue maps.
-* **Hand** (unlocks around **Level 8**):trol a critical piece when the next pig is wrong.
-* **Shuffle** (unlocks around **Lev incoming order when the queue is cursed.
-* **Super Shooter** (unlocks around **Level 18*ure relief when the board is stacked against you.
-
-If you want to stay free-to-play: treat every **pixel flow booster** like a boss item. Spend it only when it flips a guaranteed loss into a win.
+* **Add Tray**
+* **Hand**
+* **Shuffle**
+* **Super Shooter**
 
 ---
 
